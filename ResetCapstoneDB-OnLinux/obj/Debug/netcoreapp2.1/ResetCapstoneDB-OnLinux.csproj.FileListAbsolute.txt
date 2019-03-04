@@ -1,0 +1,8 @@
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Debug\netcoreapp2.1\ResetCapstoneDB-OnLinux.deps.json
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Debug\netcoreapp2.1\ResetCapstoneDB-OnLinux.runtimeconfig.json
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Debug\netcoreapp2.1\ResetCapstoneDB-OnLinux.runtimeconfig.dev.json
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Debug\netcoreapp2.1\ResetCapstoneDB-OnLinux.dll
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Debug\netcoreapp2.1\ResetCapstoneDB-OnLinux.csprojAssemblyReference.cache
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Debug\netcoreapp2.1\ResetCapstoneDB-OnLinux.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Debug\netcoreapp2.1\ResetCapstoneDB-OnLinux.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Debug\netcoreapp2.1\ResetCapstoneDB-OnLinux.AssemblyInfo.cs

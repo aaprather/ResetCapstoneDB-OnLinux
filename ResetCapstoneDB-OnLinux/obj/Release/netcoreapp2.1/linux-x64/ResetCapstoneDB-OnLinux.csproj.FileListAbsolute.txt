@@ -1,0 +1,14 @@
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Release\netcoreapp2.1\linux-x64\libhostpolicy.so
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Release\netcoreapp2.1\linux-x64\libhostfxr.so
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.deps.json
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.runtimeconfig.json
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.runtimeconfig.dev.json
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.dll
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\bin\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.pdb
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.csprojAssemblyReference.cache
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.AssemblyInfo.cs
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.dll
+C:\Users\A\Desktop\ResetCapstoneDB-OnLinux\ResetCapstoneDB-OnLinux\obj\Release\netcoreapp2.1\linux-x64\ResetCapstoneDB-OnLinux.pdb
