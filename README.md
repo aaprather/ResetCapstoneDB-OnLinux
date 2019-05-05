@@ -2,6 +2,7 @@
 .NET Core version of service that resets the live demo database of my senior capstone 'Badge Request' project.
 --------------------------------
 NuGet packages required:
+------
 
 -Microsoft.NETCore.App v2.1.0
 -
